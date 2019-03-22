@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NavigationDrawerDemo</string>
+    <string name="activity_main_option1">op1</string>
+    <string name="activity_main_option2">op2</string>
+    <string name="activity_main_option3">op3</string>
+    <string name="activity_main_option4">op4</string>
+    <string name="activity_main_option5">op5</string>
+    <string name="activity_main_mnuOthers">otros</string>
+    <string name="activity_main_mnuDetail">detalle</string>
+</resources>
